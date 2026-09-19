@@ -8,7 +8,7 @@
 
 El lote analizado se ubica cerca de la localidad de Pila (Provincia de Buenos Aires), dentro de la Cuenca del Río Salado — una de las principales regiones ganaderas del país (aloja más del 20% del stock bovino nacional sobre pastizales naturales) y, a la vez, una de las más afectadas históricamente por anegamientos e inundaciones recurrentes.
 
-El objetivo del estudio es el que un productor o inversor necesitaría antes de decidir el alquiler de un campo: conocer con precisión la superficie y la infraestructura disponible, el relieve del terreno, y el riesgo hídrico real del lote — no solo el riesgo regional genérico de la zona.
+El objetivo del estudio es el que un productor o inversor necesitaría, antes de decidir el alquiler de un campo, conocer con precisión la superficie y la infraestructura disponible, el relieve del terreno, y el riesgo hídrico real del lote — no solo el riesgo regional genérico de la zona.
 
 | Dato | Valor |
 |---|---|
@@ -42,7 +42,7 @@ Se generó un modelo de elevación a partir del DEM Copernicus GLO-30, suavizado
 - **Elevación máxima:** 10,75 m
 - **Rango total:** 2,10 m
 
-El lote muestra un relieve extremadamente chato, típico de la llanura deprimida de la Cuenca del Salado, con dos albardones/lomos identificables (al oeste y al centro-este del lote) separados por una franja baja que cruza el terreno en diagonal.
+El lote muestra un relieve extremadamente chato, típico de la llanura deprimida de la Cuenca del Salado, con una cresta elevada que atraviesa el lote en diagonal (de oeste a noreste), formada por tres elevaciones menores conectadas entre sí. Las zonas más bajas se ubican por fuera de esa cresta, concentradas principalmente hacia el sector sur del lote y, en menor medida, en el extremo norte.
 
 ![Modelo de elevación con curvas de nivel](assets/02_altimetria_dem_curvas.png)
 

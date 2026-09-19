@@ -1,0 +1,13 @@
+earthengine-api
+geemap
+geopandas
+rasterio
+shapely
+scipy
+numpy
+pandas
+matplotlib
+python-dateutil
+
+# El script 02 además usa el binario `gdal_contour` (paquete gdal-bin del sistema,
+# no se instala vía pip).
